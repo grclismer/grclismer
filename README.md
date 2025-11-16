@@ -37,10 +37,10 @@
 
 <h2 align="left">👨‍💻 About Me</h2>
 
-- 🔭 Tamad mag code
-- 🤝 Open for collaborations
+- 🔭 Tamad mag code, masipag mag prompt
+- 🤝 Open for collaborations, tas dala ka nodols
 - 🚀 Tambay after Grad
-- 💡 Love learning & coding
+- 💡 Sa github lang mag ko-commit hehe
 - ⚡ Fun fact: Bilog ang buwan at Cream'O
 
 <h2 align="left">📫 Let's Connect</h2>
